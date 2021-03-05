@@ -1,0 +1,4 @@
+The data in the Mammal_cort is from https://royalsocietypublishing.org/doi/full/10.1098/rsbl.2015.0867#d3e822
+
+Mass is in grams, all the CORT values are in ng/ml. The method column refers to this
+The molecular technique used to quantify cortisol concentrations. Abbreviations: radioimmunoassay (RIA), liquid chromatography coupled with tandem mass spectrometry (LC), competitive protein binding (CPB), dextran-coated charcoal (DCC), double isotope derivative dilution procedure (DI), chemiluminescent enzyme immunoassay (CEI), gel-filtration (GF), and fluorometric measurement (FM)
