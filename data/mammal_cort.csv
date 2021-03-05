@@ -1,0 +1,85 @@
+order,family,genus,base,elev,method,mass
+Artiodactyla,Bovidae,Aepyceros melampus,7,54,,52500
+Artiodactyla,Bovidae,Bison bison,,29,LC,579255
+Artiodactyla,Bovidae,Bison bonasus,5,37,"RIA, LC",800000
+Artiodactyla,Bovidae,Bos taurus,15,44,RIA,900000
+Artiodactyla,Bovidae,Capra hircus,17,,RIA,29860
+Artiodactyla,Bovidae,Connochaetes taurinus,,20,RIA,179999
+Artiodactyla,Bovidae,Damaliscus lunatus,,37,RIA,136000
+Artiodactyla,Bovidae,Damaliscus pygargus,,31,RIA,61000
+Artiodactyla,Bovidae,Hippotragus equinus,8,49,,269998
+Artiodactyla,Bovidae,Hippotragus niger,,31,RIA,227499
+Artiodactyla,Bovidae,Kobus ellipsiprymnus,,95,RIA,210000
+Artiodactyla,Bovidae,Oreamnos americanus,,34,LC,72500
+Artiodactyla,Bovidae,Ovibos moschatus,13,57,RIA,368502
+Artiodactyla,Bovidae,Ovis aries,15,66,RIA,100000
+Artiodactyla,Bovidae,Ovis canadensis,6,63,RIA,74645
+Artiodactyla,Bovidae,Sylvicapra grimmia,,21,RIA,19500
+Artiodactyla,Bovidae,Syncerus caffer,16,42,RIA,580003
+Artiodactyla,Bovidae,Taurotragus oryx,,28,RIA,569994
+Artiodactyla,Bovidae,Tragelaphus angasii,,85,RIA,86600
+Artiodactyla,Bovidae,Tragelaphus scriptus,,32,RIA,43250
+Artiodactyla,Bovidae,Tragelaphus strepsiceros,,46,RIA,213501
+Artiodactyla,Camelidae,Camelus bactrianus,,33,LC,690000
+Artiodactyla,Camelidae,Camelus dromedarius,,46,RIA,800000
+Artiodactyla,Camelidae,Vicugna vicugna,13,59,RIA,31500
+Artiodactyla,Cervidae,Alces alces ,15,93,,358996
+Artiodactyla,Cervidae,Axis axis,,47,RIA,69500
+Artiodactyla,Cervidae,Cervus elaphus,16,103,RIA,156250
+Artiodactyla,Cervidae,Cervus timorensis,4,113,RIA,100000
+Artiodactyla,Cervidae,Hydropotes inermis,5,49,RIA,13500
+Artiodactyla,Cervidae,Odocoileus virginianus,31,85,CPB,55509
+Artiodactyla,Cervidae,Pudu puda,4,27,RIA,9750
+Artiodactyla,Cervidae,Rangifer tarandus,11,65,RIA,86034
+Artiodactyla,Giraffidae,Giraffa camelopardalis,,45,RIA,899995
+Artiodactyla,Suidae,Sus scrofa domesticus,55,110,RIA,60000
+Carnivora,Canidae,Canis lupus dingo ,25,82,DI,16800
+Carnivora,Canidae,Lycaon pictus,41,121,RIA,22050
+Carnivora,Canidae,Nyctereutes procyonoides,,15,RIA,5387
+Carnivora,Felidae,Acinonyx jubatus,29,286,RIA,50000
+Carnivora,Felidae,Panthera pardus,379,536,RIA,55000
+Carnivora,Felidae,Panthera tigris,131,242,RIA,200000
+Carnivora,Felidae,Puma concolor,123,723,RIA,51600
+Carnivora,Mustelidae,Martes americana,15,39,RIA,884
+Carnivora,Phocidae,Mirounga angustirostris,,80,RIA,1481000
+Carnivora,Ursidae,Ursus americanus,,72,,65250
+Carnivora,Ursidae,Ursus arctos,53,80,,139441
+Carnivora,Ursidae,Ursus maritimus,,84,RIA,352501
+Cetacea,Balaenopteridae,Balaenoptera acutorostrata,,18,RIA,10000000
+Cetacea,Balaenopteridae,Balaenoptera borealis,,11,RIA,20000000
+Cetacea,Balaenopteridae,Balaenoptera edeni,,23,RIA,16000000
+Cetacea,Balaenopteridae,Balaenoptera physalus,,10,RIA,45000000
+Cetacea,Delphinidae,Stenella attenuata,,50,CEI,100000
+Cetacea,Delphinidae,Tursiops truncatus,13,25,RIA,142666
+Cetacea,Monodontidae,Delphinapterus leucas,32,63,RIA,1400000
+Cetacea,Physeteridae,Physeter macrocephalus,,18,RIA,40000000
+Chiroptera,Pteropodidae,Pteropus hypomelanus,123,1090,RIA,516
+Chiroptera,Pteropodidae,Pteropus pumilus,394,502,RIA,249
+Chiroptera,Pteropodidae,Pteropus vampyrus,423,1137,RIA,1024
+Chiroptera,Vespertilionidae,Myotis lucifugus,409,756,RIA,8
+Hyracoidea,Procaviidae,Procavia capensis,34,,FM,3030
+Lagomorpha,Leporidae,Lepus americanus,22,268,DCC,1464
+Perissodactyla,Equidae,Equus caballus,26,41,RIA,444900
+Perissodactyla,Equidae,Equus grevyi,,299,LC,408000
+Perissodactyla,Rhinocerotidae,Ceratotherium simum,,18,RIA,2949986
+Perissodactyla,Rhinocerotidae,Diceros bicornis,,33,RIA,1180511
+Pinnipedia,Phocidae,Halichoerus grypus,342,,DI,250000
+Primates,Cebidae,Saimiri sciureus,730,2590,RIA,705
+Primates,Cercopithecidae,Chlorocebus aethiops,142,390,RIA,3000
+Primates,Cercopithecidae,Macaca mulatta,180,300,RIA,10000
+Primates,Cercopithecidae,Papio hamadryas,474,,RIA,21300
+Primates,Hominidae,Homo sapiens,84,336,RIA,79923
+Primates,Hominidae,Pan troglodytes,455,660,RIA,45000
+Primates,Pitheciidae,Callicebus moloch,280,510,RIA,855
+Proboscidea,Elephantidae,Elephas maximus,23,,RIA,5000000
+Proboscidea,Elephantidae,Loxodonta africana,5,86,RIA,3940034
+Rodentia,Caviidae,Cavia porcellus,82,,GF,728
+Rodentia,Octodontidae,Octodon degus,135,439,RIA,210
+Rodentia,Sciuridae,Glaucomys sabrinus,,978,RIA,166
+Rodentia,Sciuridae,Glaucomys volans,,1620,RIA,64
+Rodentia,Sciuridae,Sciurus carolinensis,,373,RIA,507
+Rodentia,Sciuridae,Spermophilus parryii,126,164,DCC,"372, 454"
+Rodentia,Sciuridae,Spermophilus  richardsonii,75,145,RIA,372
+Rodentia,Sciuridae,Tamias amoenus,679,1081,RIA,52
+Rodentia,Sciuridae,Tamias striatus,,259,DCC,112
+Rodentia,Sciuridae,Tamiasciurus hudsonicus ,,781,DCC,236
